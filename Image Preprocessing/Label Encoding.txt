@@ -1,0 +1,12 @@
+# distribution of target Variable
+parkinsons_data['status'].value_counts()
+
+
+1    147
+0     48
+Name: status, dtype: int64
+
+
+1 --> Parkinson's Positive
+
+0 --> Healthy
